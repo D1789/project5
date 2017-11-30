@@ -1,11 +1,18 @@
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+/* Header Styles */
+
+header {
+  float: right;
+  margin-right: 10px;
 }
 
-.search {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+/* Footer Styles */
+
+.footer_left {
+  float: left;
+  margin-left: 10px;
+}
+
+.footer_right {
+  float: right;
+  margin-right: 10px;
 }
